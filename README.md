@@ -1,8 +1,6 @@
 erdom
 =====
 
-Erlang Remote Document Object Model
+Erlang Remote Document-Oriented Messaging
 
-This is supposed to ge a generalization of my erod project...
-... when the prototype milestone get passed.
-
+Currently part of the erod project.
